@@ -1,0 +1,39 @@
+{
+    "songs":[
+        {
+            "name":"Unholy (feat. Kim Petras)Sam Smith, Kim Petras.",
+            "image":"img/unholy.jpg",
+            "song":"mp3/unholy.mp3"
+        },
+        {
+            "name":"I'm Good (Blue)David Guetta, Bebe Rexha.",
+            "image":"img/iamgood.jpg",
+            "song":"mp3/iamgood.mp3"
+        },
+        {
+            "name":"As It WasHarry Styles.",
+            "image":"img/asitwas.webp",
+            "song":"mp3/AsItWas.mp3"
+        },
+        {
+            "name":"La BachataManuel Turizo.",
+            "image":"img/mtz.webp",
+            "song":"mp3/mtz.mp3"
+        },
+        {
+            "name":"Quevedo: Bzrp Music Sessions, Vol. 52Bizarrap, Quevedo.",
+            "image":"img/quevedo.jpg",
+            "song":"mp3/QUEVEDO.mp3"
+        },
+        {
+            "name":"Under The InfluenceChris Brown.",
+            "image":"img/under.jpg",
+            "song":"mp3/under.mp3"
+        },
+        {
+            "name":"Tití Me PreguntóBad Bunny.",
+            "image":"img/titi.jpg",
+            "song":"mp3/titi.mp3"
+        }
+    ]
+}
